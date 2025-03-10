@@ -15,11 +15,9 @@
 
 <br>
 
-- A passionate Self-taught Front-end developer
-- Playing CTF's at spare time
-- Currently learning Web Development by Self
-- Personal website [link](https://www.0xabdulkhalid.ml)
-- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://read.cv/0xabdulkhalid)
+💻 Soy un programador apasionado porla creacion de app con Android y Api rest con Spring Boot.
+⚡ Me especializo en la creacion de apps con android y desarrollo de APIs REST.
+🚀 Apasionado por la tecnología, siempre aprendiendo y buscando nuevos desafíos.
 
 <br><br>
 
