@@ -68,7 +68,7 @@
 
 ## Proyectos
 
-<table>
+<table align=center>
 <tr>
 <td width="50%">
 <h3 align="center">App de citas de Autores</h3>
