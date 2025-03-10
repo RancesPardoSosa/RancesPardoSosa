@@ -44,9 +44,28 @@
 - **🎨 Lenguajes de Marcado & UI Toolkit:** XML, Jetpack Compose  
 - **🛠️ Inyección de Dependencias:** Dagger Hilt  
 - **🌐 Consumo de API:** Retrofit  
-- **📂 Base de Datos & Gestión de Estados:** Room, LiveData  
+- **📂 Base de Datos & Gestión de Estados & etc:** Room, LiveData , Corrutinas , Intents  
 <br><br>
 <p align="center">
 <img width="500px"  src="https://skillicons.dev/icons?i=Androidstudio,java,kotlin,sqlite,git,github,linux&perline=10"  />
 </p>
 <br />
+
+<h2 align="center">Backend</h2>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+	
+**Tecnologias**
+
+<br>
+
+- **☕ Lenguaje de Programación:** Java  
+- **🚀 Framework:** Spring Boot  
+- **📦 ORM & Persistencia:** JPA, Hibernate  
+- **🗄️ Bases de Datos:** MySQL, PostgreSQL  
+- **📐 Arquitectura:** MVC  
+<br><br>
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=idea,maven,postgres,spring,java,git,github,linux&perline=10"  />
+</p>
+<br />
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
