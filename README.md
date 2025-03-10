@@ -15,9 +15,9 @@
 
 <br>
 
-💻 Soy un programador apasionado porla creacion de app con Android y Api rest con Spring Boot.
-⚡ Me especializo en la creacion de apps con android y desarrollo de APIs REST.
-🚀 Apasionado por la tecnología, siempre aprendiendo y buscando nuevos desafíos.
+-💻 Soy un programador apasionado porla creacion de app con Android y Api rest con Spring Boot.
+-⚡ Me especializo en la creacion de apps con android y desarrollo de APIs REST.
+-🚀 Apasionado por la tecnología, siempre aprendiendo y buscando nuevos desafíos.
 
 <br><br>
 
