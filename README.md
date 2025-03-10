@@ -9,15 +9,15 @@
 <br>
 
 
-
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
 	
 **Acerca de mi**
 
 <br>
 
--💻 Soy un programador apasionado porla creacion de app con Android y Api rest con Spring Boot.
--⚡ Me especializo en la creacion de apps con android y desarrollo de APIs REST.
--🚀 Apasionado por la tecnología, siempre aprendiendo y buscando nuevos desafíos.
+- 💻 Soy un programador apasionado porla creacion de app con Android y Api rest con Spring Boot.
+- ⚡ Me especializo en la creacion de apps con android y desarrollo de APIs REST.
+- 🚀 Apasionado por la tecnología, siempre aprendiendo y buscando nuevos desafíos.
 
 <br><br>
 
