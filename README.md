@@ -88,7 +88,8 @@ Una aplicación que muestra citas de grandes autores cada vez que haces clic en 
 - **⚡ Concurrencia:** Coroutines  
 - **🧪 Pruebas:** JUnit  
 - **💾 Base de Datos:** Room  
-- **🏗️ Arquitectura:** MVVM  
+- **🏗️ Arquitectura:** MVVM
+- **🌐 Consumo de API:** Retrofit    
 - **📡 Gestión de Estados:** LiveData  
 <br><br>
 </div>
