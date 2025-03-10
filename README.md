@@ -18,6 +18,8 @@
 - 📱 Desarrollador Android con experiencia en Kotlin y Java. Enfocado en crear aplicaciones móviles eficientes y escalables.
 - 🎓 Egresado del Instituto de Educación Superior Tecnológico Público Argentina y actualmente estudiante de Ingeniería de Software en la UTP.
 - 🚀 Apasionado por la tecnología y siempre aprendiendo.
+- 🤝 Estoy disponible para trabajar.
+- 📫 Cómo contactarme rances.pardo1@gmail.com.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
