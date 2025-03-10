@@ -31,3 +31,22 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+<h2 align="center">Android</h2>
+<picture> <img align="right" src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/Right_Side.gif" width = 250px></picture>
+	
+**Tecnologias**
+
+<br>
+
+- **🖥️ Lenguaje de Programación:** Kotlin  
+- **🏗️ Arquitectura:** MVVM  
+- **🎨 Lenguajes de Marcado & UI Toolkit:** XML, Jetpack Compose  
+- **🛠️ Inyección de Dependencias:** Dagger Hilt  
+- **🌐 Consumo de API:** Retrofit  
+- **📂 Base de Datos & Gestión de Estados:** Room, LiveData  
+<br><br>
+<p align="center">
+<img width="500px"  src="https://skillicons.dev/icons?i=Androidstudio,java,kotlin,sqlite,git,github,linux&perline=10"  />
+</p>
+<br />
