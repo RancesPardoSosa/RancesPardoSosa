@@ -15,10 +15,9 @@
 
 <br>
 
-- 💻 Soy un programador apasionado porla creacion de app con Android y Api rest con Spring Boot.
-- ⚡ Me especializo en la creacion de apps con android y desarrollo de APIs REST.
-- 🚀 Apasionado por la tecnología, siempre aprendiendo y buscando nuevos desafíos.
-
+📱 Desarrollador Android con experiencia en Kotlin y Java. Enfocado en crear aplicaciones móviles eficientes y escalables.
+🎓 Egresado del Instituto de Educación Superior Tecnológico Público Argentina y actualmente estudiante de Ingeniería de Software en la UTP.
+🚀 Apasionado por la tecnología y siempre aprendiendo.
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
