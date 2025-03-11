@@ -17,7 +17,7 @@
 - 🎓 Egresado del Instituto de Educación Superior Tecnológico Público Argentina y actualmente estudiante de Ingeniería de Software en la UTP.
 - 🚀 Apasionado por la tecnología y siempre aprendiendo.
 - 🧑‍💻 Me encanta usar software como solución para cada problema
-- 🤝 Actualmente estoy abierto a una nueva oportunidad laboral, este es <a>MI CURRICULUM VITAE.</a>.
+- 🤝 Actualmente estoy abierto a una nueva oportunidad laboral, este es <a href="https://drive.google.com/file/d/1vOpsTwop1KSIj14SaiKe5XVBjN_KyIpG/view?usp=sharing">MI CURRICULUM VITAE.</a>.
 - 📫 Contáctame al correo: rances.pardo1@gmail.com.
 <br><br>
 
