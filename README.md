@@ -73,13 +73,11 @@
 <td width="50%">
 <h3 align="center">App de citas de Autores</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/wdFRgfe.jpeg" width="250" height="500" alt="App de citas"></a>
+<a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank"><img src="https://i.imgur.com/wdFRgfe.jpeg" width="250" height="500" alt="App de citas"></a>
 <p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-## 📝 Frases Inspiradoras  
-
-Una aplicación que muestra citas de grandes autores cada vez que haces clic en la pantalla.  
+<a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/></a>
+<p>Una aplicación que muestra citas de grandes autores cada vez que haces clic en la pantalla.</p>
 <div align=left>
 🚀 Tecnologías utilizadas  
 
