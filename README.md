@@ -66,30 +66,64 @@
 <br />
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## Proyectos
+## 🚀 Proyectos
 
-<table align=center>
+<table align="center">
+  <tr>
+    <td align="center" width="50%">
+      <h3>📚 App de citas de Autores</h3>
+      <a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank">
+        <img src="https://i.imgur.com/wdFRgfe.jpeg" width="250" alt="App de citas" />
+      </a>
+      <p>
+        <a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+      <p><strong>Una aplicación que muestra citas de grandes autores cada vez que haces clic en la pantalla.</strong></p>
+      <details>
+        <summary><strong>⚙️ Tecnologías utilizadas</strong></summary>
+        <ul align="left">
+          <li><strong>📌 UI:</strong> XML</li>
+          <li><strong>🛠️ DI:</strong> Dagger Hilt</li>
+          <li><strong>⚡ Coroutines</strong></li>
+          <li><strong>🧪 Testing:</strong> JUnit</li>
+          <li><strong>💾 DB:</strong> Room</li>
+          <li><strong>🏗️ Arquitectura:</strong> MVVM</li>
+          <li><strong>🌐 API:</strong> Retrofit</li>
+          <li><strong>📡 Estado:</strong> LiveData</li>
+        </ul>
+      </details>
+    </td>
+  </tr>
+
 <tr>
-<td width="50%">
-<h3 align="center">App de citas de Autores</h3>
-<div align="center">
-<a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank"><img src="https://i.imgur.com/wdFRgfe.jpeg" width="250" height="500" alt="App de citas"></a>
-<p>
-<a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black"/></a>
-<p>Una aplicación que muestra citas de grandes autores cada vez que haces clic en la pantalla.</p>
-<div align=left>
-🚀 Tecnologías utilizadas  
+  <td align="center" width="50%">
+    <h3>🎬 App Emovie <sup><span style="color:red;">(En desarrollo)</span></sup></h3>
+    <a href="https://github.com/RancesPardoSosa/AppPeliculas" target="_blank">
+      <img src="https://drive.google.com/uc?export=view&id=1PuYa8j1gatnvNhIAwejvdtmBvKcTEYqH" width="250" alt="App Emovie" />
+    </a>
+    <p>
+      <a href="https://github.com/RancesPardoSosa/AppPeliculas" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+    </p>
+    <p><strong>Aplicación en desarrollo que permite explorar películas en diferentes categorías utilizando la API de TMDB.</strong></p>
+    <p>🚧 <em>Este proyecto personal aún está en construcción. Próximamente incluirá una pantalla de bienvenida (SplashScreen) y pantalla de detailMovie.</em></p>
+    <details>
+      <summary><strong>⚙️ Tecnologías utilizadas</strong></summary>
+      <ul align="left">
+        <li><strong>📌 UI:</strong> Jetpack Compose</li>
+        <li><strong>🛠️ DI:</strong> Hilt</li>
+        <li><strong>⚡ Concurrencia:</strong> Kotlin Coroutines</li>
+        <li><strong>🌐 API:</strong> Retrofit + The Movie Database (TMDB)</li>
+        <li><strong>💾 Base de Datos:</strong> Room</li>
+        <li><strong>🏗️ Arquitectura:</strong> MVVM</li>
+        <li><strong>📡 Gestión de Estados:</strong> StateFlow</li>
+        <li><strong>🎬 Funcionalidad próxima:</strong> SplashScreen</li>
+      </ul>
+    </details>
+  </td>
+</tr>
+</table>
 
-- **📌 UI:** XML  
-- **🛠️ Inyección de Dependencias:** Dagger Hilt  
-- **⚡ Concurrencia:** Coroutines  
-- **🧪 Pruebas:** JUnit  
-- **💾 Base de Datos:** Room  
-- **🏗️ Arquitectura:** MVVM
-- **🌐 Consumo de API:** Retrofit    
-- **📡 Gestión de Estados:** LiveData  
-<br><br>
-</div>
-</div>
-</Table>
