@@ -109,7 +109,7 @@
       </a>
     </p>
     <p><strong>Aplicación en desarrollo que permite explorar películas en diferentes categorías utilizando la API de TMDB.</strong></p>
-    <p>🚧 <em>Este proyecto personal aún está en construcción. Próximamente incluirá una pantalla de bienvenida (SplashScreen) y pantalla de detailMovie.</em></p>
+    <p>🚧 <em>Este proyecto personal aún está en construcción. Próximamente incluirá una pantalla de bienvenida (SplashScreen), pantalla de detailMovie, implementacion de navigation y modo offline(Room).</em></p>
     <details>
       <summary><strong>⚙️ Tecnologías utilizadas</strong></summary>
       <ul align="left">
