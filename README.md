@@ -1,129 +1,120 @@
+<h1 align="center"><b>Hola, soy Rances Pardo 👋</b></h1>
 
-<h1 align="center"><b>Hola , Yo soy Rances Pardo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Freelance+%26%26+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=550&lines=Full+Stack+Developer+%7C+Node.js+%26+React;Automation+%26+AI+Solutions;Apasionado+por+crear+soluciones+escalables" alt="Typing SVG" />
+  </a>
 </p>
 
+---
 
-<br>
+### 🧠 Sobre mí
 
-	
-**Acerca de mi**
+💡 Soy **Desarrollador Full Stack** especializado en **Node.js (Express)** y **React**, con experiencia en **automatización (RPA con Python + Selenium)** y soluciones con **Inteligencia Artificial aplicada**.  
+Me apasiona construir software escalable, optimizar procesos y aplicar buenas prácticas de desarrollo.
 
-<br>
+- 🌎 Lima, Perú  
+- 🎓 Estudiante de **Ingeniería de Software – Universidad Tecnológica del Perú (UTP)**  
+- 🚀 Experiencia con **despliegues en VPS, Docker, CI/CD, RPA y análisis de voz con IA**  
+- 💬 Me encanta trabajar en proyectos donde la tecnología impulsa la eficiencia y la innovación  
+- 📫 Contáctame: **rances.pardo1@gmail.com**  
+- 🌐 [Mi sitio web](https://rancespardo.com) • [LinkedIn](https://linkedin.com/in/walterrancespardososa/)
 
-- 📱 Desarrollador Android con experiencia en Kotlin y Java. Enfocado en crear aplicaciones móviles eficientes y escalables.
-- 🎓 Egresado del Instituto de Educación Superior Tecnológico Público Argentina y actualmente estudiante de Ingeniería de Software en la UTP.
-- 🚀 Apasionado por la tecnología y siempre aprendiendo.
-- 🧑‍💻 Me encanta usar software como solución para cada problema
-- 🤝 Actualmente estoy abierto a una nueva oportunidad laboral, este es <a href="https://drive.google.com/file/d/1vOpsTwop1KSIj14SaiKe5XVBjN_KyIpG/view?usp=sharing" target="_blank">MI CURRICULUM VITAE.</a>.
-- 📫 Contáctame al correo: rances.pardo1@gmail.com.
-<br><br>
+---
 
+### 🧩 Stack Tecnológico
 
-<div align="center">
-  <img src="https://github.com/RancesPardoSosa/RancesPardoSosa/blob/output/github-snake-dark.svg">
-</div>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-<h2 align="center">Android</h2>
-	
-**Tecnologias**
-
-<br>
-
-- **🖥️ Lenguaje de Programación:** Kotlin  
-- **🏗️ Arquitectura:** MVVM  
-- **🎨 Lenguajes de Marcado & UI Toolkit:** XML, Jetpack Compose  
-- **🛠️ Inyección de Dependencias:** Dagger Hilt  
-- **🌐 Consumo de API:** Retrofit  
-- **📂 Base de Datos & Gestión de Estados & etc:** Room, LiveData , Corrutinas , Intents  
-<br><br>
+#### 💻 **Lenguajes y Frameworks**
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=Androidstudio,java,kotlin,sqlite,git,github,linux&perline=10"  />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,java,spring,python,docker&perline=5" />
 </p>
-<br />
 
-<h2 align="center">Backend</h2>
-	
-**Tecnologias**
-
-<br>
-
-- **☕ Lenguaje de Programación:** Java  
-- **🚀 Framework:** Spring Boot  
-- **📦 ORM & Persistencia:** JPA, Hibernate  
-- **🗄️ Bases de Datos:** MySQL, PostgreSQL  
-- **📐 Arquitectura:** MVC  
-<br><br>
+#### ⚙️ **DevOps y Herramientas**
 <p align="center">
-<img width="500px"  src="https://skillicons.dev/icons?i=idea,maven,postgres,spring,java,git,github,linux&perline=10"  />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,mysql,postgres,selenium&perline=7" />
 </p>
-<br />
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
-## 🚀 Proyectos
+---
+
+### 🧰 Experiencia Profesional
+
+#### 🏢 **Killa Data** — *Desarrollador Full Stack*  
+📍 Lima, Perú | 🗓️ Ene 2025 – Sep 2025  
+- Desarrollo de plataforma unificada de componentes con **Node.js (Express)** y **Angular**.  
+- Despliegue en **VPS con Docker**, configuración de dominios y DNS.  
+- Implementación de **RPA con Python (Selenium)** para automatizar validaciones y extracción de datos.  
+- Gestión de scripts con **Supervisor**, asegurando su ejecución continua.  
+- Coordinación técnica con clientes y diseño de soluciones **IA + automatización de voz**.  
+- Optimización de infraestructura y costos operativos con enfoque escalable.
+
+#### 💼 **Freelance** — *Full Stack Developer*  
+📍 Lima, Perú | 🗓️ Ago 2024 – Ene 2025  
+- Desarrollo de sitios web dinámicos con **React + Node.js + Express**.  
+- Despliegue en servidores **VPS** con dominios personalizados y certificados SSL.  
+- Integración de **MySQL y PostgreSQL**, control de versiones con **Git**.  
+- Mejora de rendimiento, seguridad y escalabilidad de las aplicaciones.
+
+#### 🖥️ **Outec** — *Ingeniero de Soporte TI*  
+📍 Lima, Perú | 🗓️ Ago 2023 – Mar 2024  
+- Soporte técnico de primer y segundo nivel.  
+- Administración de redes, servidores y usuarios con **Active Directory**.  
+- Documentación y mejora de procesos técnicos internos.
+
+---
+
+### 💼 Proyectos Destacados
 
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <h3>📚 App de citas de Autores</h3>
-      <a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank">
-        <img src="https://i.imgur.com/wdFRgfe.jpeg" width="250" alt="App de citas" />
-      </a>
-      <p>
-        <a href="https://github.com/RancesPardoSosa/AppDeFrasesDeAutores/tree/master" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </p>
-      <p><strong>Una aplicación que muestra citas de grandes autores cada vez que haces clic en la pantalla.</strong></p>
-      <details>
-        <summary><strong>⚙️ Tecnologías utilizadas</strong></summary>
-        <ul align="left">
-          <li><strong>📌 UI:</strong> XML</li>
-          <li><strong>🛠️ DI:</strong> Dagger Hilt</li>
-          <li><strong>⚡ Coroutines</strong></li>
-          <li><strong>🧪 Testing:</strong> JUnit</li>
-          <li><strong>💾 DB:</strong> Room</li>
-          <li><strong>🏗️ Arquitectura:</strong> MVVM</li>
-          <li><strong>🌐 API:</strong> Retrofit</li>
-          <li><strong>📡 Estado:</strong> LiveData</li>
-        </ul>
-      </details>
+      <h3>🤖 RPA Data Extractor</h3>
+      <p><strong>Automatización con Python + Selenium</strong></p>
+      <p>Script que automatiza la extracción y validación de datos desde portales externos, con registro de logs y ejecución continua mediante Supervisor.</p>
+      <p><strong>Tecnologías:</strong> Python, Selenium, VPS, Supervisor, Linux</p>
+    </td>
+    <td align="center" width="50%">
+      <h3>🌐 Plataforma Unificada de Componentes</h3>
+      <p><strong>Full Stack con Node.js + Angular</strong></p>
+      <p>Aplicación modular para centralizar herramientas internas y mejorar la integración entre productos.</p>
+      <p><strong>Tecnologías:</strong> Node.js, Express, Angular, Docker, VPS</p>
     </td>
   </tr>
-
-<tr>
-  <td align="center" width="50%">
-    <h3>🎬 App Emovie <sup><span style="color:red;">(En desarrollo)</span></sup></h3>
-    <a href="https://github.com/RancesPardoSosa/AppPeliculas" target="_blank">
-      <img src="https://drive.google.com/uc?export=view&id=1PuYa8j1gatnvNhIAwejvdtmBvKcTEYqH" width="250" alt="App Emovie" />
-    </a>
-    <p>
-      <a href="https://github.com/RancesPardoSosa/AppPeliculas" target="_blank">
-        <img src="https://img.shields.io/badge/Ver%20Código-000?style=for-the-badge&logo=github&logoColor=white" />
-      </a>
-    </p>
-    <p><strong>Aplicación en desarrollo que permite explorar películas en diferentes categorías utilizando la API de TMDB.</strong></p>
-    <p>🚧 <em>Este proyecto personal aún está en construcción. Próximamente incluirá una pantalla de bienvenida (SplashScreen), pantalla de detailMovie, implementacion de navigation y modo offline(Room).</em></p>
-    <details>
-      <summary><strong>⚙️ Tecnologías utilizadas</strong></summary>
-      <ul align="left">
-        <li><strong>📌 UI:</strong> Jetpack Compose</li>
-        <li><strong>🛠️ DI:</strong> Hilt</li>
-        <li><strong>⚡ Concurrencia:</strong> Kotlin Coroutines</li>
-        <li><strong>🌐 API:</strong> Retrofit + The Movie Database (TMDB)</li>
-        <li><strong>💾 Base de Datos:</strong> Room</li>
-        <li><strong>🏗️ Arquitectura:</strong> MVVM</li>
-        <li><strong>📡 Gestión de Estados:</strong> StateFlow</li>
-        <li><strong>🎬 Funcionalidad próxima:</strong> SplashScreen</li>
-      </ul>
-    </details>
-  </td>
-</tr>
 </table>
 
+---
+
+### 📈 Estadísticas de GitHub
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RancesPardoSosa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RancesPardoSosa&theme=react&hide_border=true&background=0D1117" />
+</p>
+
+---
+
+### 🐍 Snake Animation
+<div align="center">
+  <img src="https://github.com/RancesPardoSosa/RancesPardoSosa/blob/output/github-snake-dark.svg" />
+</div>
+
+---
+
+### ✉️ Contacto
+
+<p align="center">
+  <a href="mailto:rances.pardo1@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/walterrancespardososa/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://rancespardo.com">
+    <img src="https://img.shields.io/badge/Portfolio-151B23?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <i>“Construyendo soluciones que conectan tecnología con impacto real.”</i>
+</p>
