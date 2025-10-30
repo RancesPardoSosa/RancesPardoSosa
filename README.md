@@ -20,6 +20,10 @@ Me apasiona construir software escalable, optimizar procesos y aplicar buenas pr
 - 📫 Contáctame: **rances.pardo1@gmail.com**  
 - 🌐 [Mi sitio web](https://rancespardo.com) • [LinkedIn](https://linkedin.com/in/walterrancespardososa/)
 
+<div align="center">
+  <img src="https://github.com/RancesPardoSosa/RancesPardoSosa/blob/output/github-snake-dark.svg" />
+</div>
+
 ---
 
 ### 🧩 Stack Tecnológico
@@ -81,21 +85,10 @@ Me apasiona construir software escalable, optimizar procesos y aplicar buenas pr
   </tr>
 </table>
 
----
-
-### 📈 Estadísticas de GitHub
-
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=RancesPardoSosa&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=RancesPardoSosa&theme=react&hide_border=true&background=0D1117" />
 </p>
-
----
-
-### 🐍 Snake Animation
-<div align="center">
-  <img src="https://github.com/RancesPardoSosa/RancesPardoSosa/blob/output/github-snake-dark.svg" />
-</div>
 
 ---
 
